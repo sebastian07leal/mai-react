@@ -1,0 +1,9 @@
+
+.socialMedia {
+  outline: none;
+  & img {
+    min-width: 10vw;
+    max-width: 12vw;
+    border-radius: 50px;
+  }
+}
